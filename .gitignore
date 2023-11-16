@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+poetry.lock
+/app/package-lock.json
+/node_modules/
+.env
+.idea
